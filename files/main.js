@@ -1,3 +1,4 @@
+<!-- Special Thanks to Violet-->
 $(function() {
 	$(window).scroll(function() {
     var nav = $('#custom-nav');
